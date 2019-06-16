@@ -1,0 +1,19 @@
+{
+  "extends": "eslint-config-umi",
+  "rules": {
+    "no-unused-vars": 0,
+    "no-empty-pattern" : 0,
+    "array-callback-return" : 0,
+    "default-case": 0,
+    "radix": 0,
+    "require-yield": 0,
+    "no-unreachable": 0,
+    "no-lone-blocks": 0,
+    "no-useless-constructor": 0,
+    "no-extend-native": 0,
+    "eqeqeq": 0,
+    "no-control-regex": 0,
+    "no-unused-expressions": 0,
+    "no-debugger": 1
+  }
+}
